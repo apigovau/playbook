@@ -433,3 +433,22 @@ TABLE.boston_cube TR TD
 {
 	width: 25vw;
 }
+
+.decommission {
+	background: ghostwhite;
+	border-width: 5px;
+	border-style: ridge;
+	border-radius: 7px;
+	padding: 10px;
+	color: red;
+	position: fixed;
+	top: 20px;
+	z-index: 1000;
+	transform: translate(-50%, -20px);
+	left: 50%;
+}
+
+.decommission a {
+	text-decoration: underline;
+	color: black !important;
+}
