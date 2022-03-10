@@ -1,5 +1,4 @@
 ---
-layout: landing
 title: Welcome
 layout: index
 ---
