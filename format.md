@@ -4,7 +4,7 @@ section: root
 ---
 
 {:.collection}
-![Technology](img/technology.svg)
+![Technology](assets/img/technology.svg)
 
 
 {:.page_head}

@@ -3,7 +3,7 @@ title: Your data format needs
 section: root
 ---
 {:.collection}
-![Community](img/technology.svg)
+![Community](assets/img/technology.svg)
 
 
 {:.page_head}

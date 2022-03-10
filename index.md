@@ -1,6 +1,5 @@
 ---
 title: Welcome
-layout: index
 ---
 
 {:.page_head}
@@ -67,7 +66,7 @@ You can also browse the guides by category, which is at the bottom of the page.
 <div class="grids col-sm-5">
 
 {:.collection}
-![Technology](img/technology.svg)
+![Technology](assets/img/technology.svg)
 - [Your data format needs ](format_needs.html)<br/>Not all data formats are created equal, and knowing what your data format needs are will help you propose the right one to your community
 - [Proposing a data format](format.html)<br/>Read about the different types of messaging formats that are commonly used, and what they are usually used for
 
