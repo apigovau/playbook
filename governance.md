@@ -3,7 +3,7 @@ title: Self Governance
 section: root
 ---
 {:.collection}
-![Governance](img/governance.svg)
+![Governance](assets/img/governance.svg)
 
 
 {:.page_head}

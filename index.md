@@ -47,7 +47,7 @@ You can also browse the guides by category, which is at the bottom of the page.
 <div class="grids col-sm-5">
 
 {:.collection}
-![Governance](img/governance.svg)
+![Governance](assets/img/governance.svg)
 - [Self governance](governance.html)<br/>Every community governs themselves. Here are some approaches to take
 </div>
 </div>
@@ -58,7 +58,7 @@ You can also browse the guides by category, which is at the bottom of the page.
 <div class="grids col-sm-5">
 
 {:.collection}
-![Standards](img/standards.svg)
+![Standards](assets/img/standards.svg)
 - [Making a decision and setting a standard](decisions.html)<br/>Once you've proposed an idea to your community, and had a chance to hear theirs, it's up to you to choose
 - [Writing good data definitions](definitions.html)<br/>Take a look at our suggestions for writing clear, simple and reusable data definitions
 

@@ -24,7 +24,7 @@
       </text>
       <circle cx="706.6" cy="657.8" r="5.6" style="fill:none;stroke:#00a1f4;stroke-width:4.5px"/>
     </g>
-    <a xlink:href="/playbook/community.html">
+    <a xlink:href="/community.html">
       <g serif:id="new to communities" style="cursor:hand">
         <path style="fill:#ebebeb" d="M341.1 160.3h152.5v13.6H341.1z"/>
         <text text-decoration="underline" x="341.6" y="172.1" style="font-family:'Muli-Black', 'Muli';font-weight:900;font-size:15px;fill:#414141">
@@ -66,7 +66,7 @@
       </text>
       <circle cx="113" cy="285.9" r="5.6" style="fill:none;stroke:#00a1f4;stroke-width:10px"/>
     </g>
-    <a xlink:href="/playbook/governance.html">
+    <a xlink:href="/governance.html">
       <g style="cursor:hand">
         <path style="fill:#ebebeb" d="M132.1 337.2h147.7v34.2H132.1z"/>
         <text text-decoration="underline" x="11" y="85.5" style="font-family:'Muli-Black', 'Muli';font-weight:900;font-size:22.42px;fill:#414141" transform="translate(126.3 293.2) scale(.66905)">
@@ -131,7 +131,7 @@
     <path d="M388.3 490.2c-19.7-25.5-73-68.7-36.2-116.3a56.8 56.8 0 0 1 79.8-8.3 56.8 56.8 0 0 1 11.9 79.4c-37.8 48.7-87.8 12.3-115 1.1" style="fill:none;stroke:#9df;stroke-width:15px"/>
     <path d="M380.7 380.4a33.6 33.6 0 0 1 40.8 9.4m-7.9-.2l7.9.2.2-8m3.8 14.5A33.6 33.6 0 0 1 416 437" style="fill:none;stroke:#414141;stroke-width:2.43px"/>
     <path d="M416.2 429.1l-.1 8 7.9.1m-14.4 3.8a33.6 33.6 0 0 1-40.8-9.4m7.9.2l-8-.2v8m-3.9-14.5a33.6 33.6 0 0 1 9.4-40.7m-.2 7.9l.2-8-8-.1" style="fill:none;stroke:#414141;stroke-width:2.43px"/>
-    <a xlink:href="/playbook/consult.html">
+    <a xlink:href="/consult.html">
       <g serif:id="consulting" style="cursor:hand">
         <path style="fill:#ebebeb" d="M465.1 385.2h83.7v16.1h-83.7z"/>
         <text text-decoration="underline" x="466.2" y="397.5" style="font-family:'Muli-Black', 'Muli';font-weight:900;font-size:15px;fill:#414141">
@@ -151,7 +151,7 @@
       </text>
       <circle cx="409.5" cy="354" r="5.6" style="fill:none;stroke:#00a1f4;stroke-width:4.5px"/>
     </g>
-    <a xlink:href="/playbook/decisions.html">
+    <a xlink:href="/decisions.html">
       <g serif:id="deciding" style="cursor:hand">
         <path d="M513.1 456.7h-66v13.7l66 2.5v-16.2z" style="fill:#ebebeb"/>
         <text text-decoration="underline" x="446.5" y="469.1" style="font-family:'Muli-Black', 'Muli';font-weight:900;font-size:15px;fill:#414141">
@@ -178,7 +178,7 @@
     <path d="M202.8 711.8c28 16 93.8 35.3 78 93.4a56.8 56.8 0 0 1-70.4 38.4 56.8 56.8 0 0 1-41.5-68.8c16.2-59.5 76.3-45 105.8-45.2" style="fill:none;stroke:#9df;stroke-width:15px"/>
     <path d="M235.8 820.2a33.6 33.6 0 0 1-38.4-16.5m7.7 1.5l-7.7-1.5-1.6 7.8m-1.2-14.9a33.6 33.6 0 0 1 16.5-38.4" style="fill:none;stroke:#414141;stroke-width:2.43px"/>
     <path d="M209.5 765.9l1.6-7.8-7.8-1.6m14.9-1.2a33.7 33.7 0 0 1 38.4 16.6m-7.7-1.6l7.8 1.6 1.5-7.8m1.2 14.9c4.2 15.4-3 31.2-16.5 38.4m1.6-7.7l-1.6 7.7 7.8 1.6" style="fill:none;stroke:#414141;stroke-width:2.43px"/>
-    <a xlink:href="/playbook/decisions.html">
+    <a xlink:href="/decisions.html">
       <g serif:id="deciding" style="cursor:hand">
         <path style="fill:#ebebeb" d="M289.6 817h67v17.2h-67z"/>
         <text text-decoration="underline" x="289.8" y="828.4" style="font-family:'Muli-Black', 'Muli';font-weight:900;font-size:15px;fill:#414141">
@@ -187,7 +187,7 @@
         <circle cx="271.6" cy="824.9" r="5.6" style="fill:none;stroke:#00a1f4;stroke-width:4.5px"/>
       </g>
     </a>
-    <a xlink:href="/playbook/format_needs.html">
+    <a xlink:href="/format_needs.html">
       <g serif:id="your data needs" style="cursor:hand">
         <path style="fill:#ebebeb" d="M291.2 755.7h122.7v17.2H291.2z"/>
         <text text-decoration="underline" x="291.2" y="767.6" style="font-family:'Muli-Black', 'Muli';font-weight:900;font-size:15px;fill:#414141">
@@ -196,7 +196,7 @@
         <circle cx="276.6" cy="763.5" r="5.6" style="fill:none;stroke:#00a1f4;stroke-width:4.5px"/>
       </g>
     </a>
-    <a xlink:href="/playbook/consult.html">
+    <a xlink:href="/consult.html">
       <g serif:id="consulting" style="cursor:hand">
         <path style="fill:#ebebeb" d="M295.7 786.5h78.4v17.9h-78.4z"/>
         <text text-decoration="underline" x="295.4" y="799.7" style="font-family:'Muli-Black', 'Muli';font-weight:900;font-size:15px;fill:#414141">
@@ -209,7 +209,7 @@
     <path d="M389.8 674.8c20.2-25 50-86.9 104.7-62a56.8 56.8 0 0 1 26.6 75.7 56.8 56.8 0 0 1-74.5 29.9c-56.2-25.5-32.3-82.6-27.6-111.6" style="fill:none;stroke:#9df;stroke-width:15px"/>
     <path d="M435.6 668.8a33.6 33.6 0 0 1 20.1-36.7m-2.3 7.6l2.3-7.6-7.6-2.3m14.9.2c15.8-2.7 30.8 6 36.7 20.2" style="fill:none;stroke:#414141;stroke-width:2.43px"/>
     <path d="M492.1 647.9l7.6 2.3 2.3-7.6m-.2 14.9c2.7 15.7-6 30.8-20.1 36.6m2.3-7.5l-2.3 7.6 7.5 2.3m-14.9-.2a33.6 33.6 0 0 1-36.6-20.2m7.5 2.3l-7.6-2.3-2.3 7.6" style="fill:none;stroke:#414141;stroke-width:2.43px"/>
-    <a xlink:href="/playbook/decisions.html">
+    <a xlink:href="/decisions.html">
       <g serif:id="deciding" style="cursor:hand">
         <path style="fill:#ebebeb" d="M475 731.5h70.1v18H475z"/>
         <text text-decoration="underline" x="475.4" y="745.4" style="font-family:'Muli-Black', 'Muli';font-weight:900;font-size:15px;fill:#414141">
@@ -228,7 +228,7 @@
       </text>
       <circle cx="512.6" cy="626.6" r="5.6" style="fill:none;stroke:#00a1f4;stroke-width:4.5px"/>
     </g>
-    <a xlink:href="/playbook/consult.html">
+    <a xlink:href="/consult.html">
       <g serif:id="consulting" style="cursor:hand">
         <path style="fill:#ebebeb" d="M529.8 689.8h78.7v15.7h-78.7z"/>
         <text text-decoration="underline" x="529.6" y="702.2" style="font-family:'Muli-Black', 'Muli';font-weight:900;font-size:15px;fill:#414141">
@@ -344,7 +344,7 @@
       <path d="M164.4 1540.9c14.2 28.9 57.6 82 11.8 121.1a56.8 56.8 0 0 1-79.8-8 56.8 56.8 0 0 1 4.5-80.2c47-40 88.5 5.8 112.8 22.3" style="fill:none;stroke:#9df;stroke-width:15px"/>
       <path d="M135 1650.2a33.6 33.6 0 0 1-27-32m6.2 4.8l-6.2-4.8-5 6.2m5.7-13.8a33.6 33.6 0 0 1 32-27" style="fill:none;stroke:#414141;stroke-width:2.43px"/>
       <path d="M135.8 1589.8l4.8-6.2-6.2-4.9m13.9 5.6a33.6 33.6 0 0 1 26.9 32m-6.2-4.9l6.2 4.9 5-6.2m-5.7 13.8a33.6 33.6 0 0 1-32 27m4.9-6.3l-4.9 6.3 6.3 4.9" style="fill:none;stroke:#414141;stroke-width:2.43px"/>
-      <a xlink:href="/playbook/definitions.html">
+      <a xlink:href="/definitions.html">
         <g serif:id="writing good definitions" style="cursor:hand">
           <path d="M107.3 1536.2H10v28.2l89.1-.5 8.3-12.3v-15.4z" style="fill:#ebebeb"/>
           <text text-decoration="underline" x="11" y="85.5" style="font-family:'Muli-Black', 'Muli';font-weight:900;font-size:22.42px;fill:#414141" transform="translate(3.3 1491.6) scale(.66905)">
@@ -366,7 +366,7 @@
         </text>
         <circle cx="112.8" cy="1667.2" r="5.6" style="fill:none;stroke:#00a1f4;stroke-width:4.5px"/>
       </g>
-      <a xlink:href="/playbook/reusing_definitions.html">
+      <a xlink:href="/reusing_definitions.html">
         <g serif:id="reusing the definitions of others" style="cursor:hand">
           <path style="fill:#ebebeb" d="M194.9 1658.6H297v43.1H194.9z"/>
           <text text-decoration="underline" x="11" y="85.5" style="font-family:'Muli-Black', 'Muli';font-weight:900;font-size:22.42px;fill:#414141" transform="translate(189 1614.2) scale(.66905)">

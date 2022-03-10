@@ -3,7 +3,7 @@ title: Writing good data definitions
 section: root
 ---
 {:.collection}
-![Standards](img/standards.svg)
+![Standards](assets/img/standards.svg)
 
 
 {:.page_head}
