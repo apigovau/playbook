@@ -35,9 +35,9 @@ We store relationships as [RDF triples](https://www.w3.org/TR/rdf-concepts/#sect
 
 The catalogue will generate UML class diagrams if definitions have the following relations:
 
-![Diagram showing how skos:member, skos:subClassOf, rdfs:related and rdfs:seeAlso are interpreted by the catalogue to generate class diagrams](img/semantic_relations.png)
-
-Here is a definition from the catalogue with a [generated image](https://api.gov.au/definitions/definition/ce/ce1).
+![Diagram showing how skos:member, skos:subClassOf, rdfs:related and rdfs:seeAlso are interpreted by the catalogue to generate class diagrams](assets/img/semantic_relations.png)
+<!-- 
+Here is a definition from the catalogue with a [generated image](https://api.gov.au/definitions/definition/ce/ce1). -->
 
 ## Browsing by community
 {:.coming_soon}

@@ -34,11 +34,11 @@ If you want to exchange information digitally with others then it's time to cons
 
 Joining a community should be your first choice. While there is no restrictions on who can make their own community, or how many communities there can be, it's better for everyone to try and keep communities together.
 
-You can [check the community directory](/community_directory.html) to see if one exists already.
+<!-- You can [check the community directory](/community_directory.html) to see if one exists already. -->
 
 Each community has their own process for new members, but they'll describe that on their page.
 
-Please also [let us know when you join](mailto:alastair.parker@ato.gov.au?subject=I%27d%20like%20to%20join%20a%20community) so we can let you know if anything major is happening.
+Please also [let us know when you join](mailto:api@dta.gov.au?subject=I%27d%20like%20to%20join%20a%20community) so we can let you know if anything major is happening.
 
 ## Creating your own
 
@@ -46,4 +46,4 @@ If there aren't any existing communities that are suitable for your needs, then 
 
 It's a bit of work, but the effort you put in now will make a big difference to how effective your community is.
 
-If you're going to create your own community, [get in touch](mailto:alastair.parker@ato.gov.au?subject=I%27d%20like%20to%20make%20a%20new%20community). We'll walk you through it.
+If you're going to create your own community, [get in touch](mailto:api@dta.gov.au?subject=I%27d%20like%20to%20make%20a%20new%20community). We'll walk you through it.

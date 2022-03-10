@@ -23,7 +23,7 @@ You can also browse the guides by category, which is at the bottom of the page.
   <canvas class="Journey-canvas" height="1845px" width="932px"></canvas>
   {% include journey.svg %}
 
-  [Click here](/img/journey.png) for a larger image of the journey.
+  [Click here](assets/img/journey.png) for a larger image of the journey.
 
 </div>
 
