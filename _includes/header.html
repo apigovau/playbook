@@ -19,6 +19,32 @@
   <link href="{{ '/assets/css/designsystem.css' | relative_url}}" rel="stylesheet">
   <link href="{{ '/assets/css/custom.css?v=2' | relative_url}}" rel="stylesheet">
 
+  <style>
+    .Journey {
+      display: inline-block;
+      height: 1400px;
+      position: relative;
+      user-select: none;
+      max-width:100%;
+      max-height: 150vw;
+    }
+
+    .Journey-canvas {
+      display: block;
+      height: 100%;
+      visibility: hidden;
+    }
+
+    .Journey-svg {
+      height: 100%;
+      left: 0;
+      position: absolute;
+
+      top: 0;
+      width: 100%;
+    }
+  </style>
+
 </head>
 
 <body{% if page.id %} id="{{ page.id }}" {% endif %} class="{{ page.layout }} au-body au-grid">
