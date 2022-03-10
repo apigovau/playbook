@@ -1,5 +1,4 @@
 ---
-layout: base
 title: What is a community
 section: root
 ---

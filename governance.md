@@ -1,5 +1,4 @@
 ---
-layout: base
 title: Self Governance
 section: root
 ---

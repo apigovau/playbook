@@ -1,5 +1,4 @@
 ---
-layout: base
 title: Writing good data definitions
 section: root
 ---

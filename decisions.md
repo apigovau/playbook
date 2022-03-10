@@ -1,5 +1,4 @@
 ---
-layout: base
 title: Making a decision
 section: root
 ---

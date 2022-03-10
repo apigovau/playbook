@@ -1,5 +1,4 @@
 ---
-layout: base
 title: Reusing the definitions of others
 section: root
 ---

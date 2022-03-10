@@ -1,5 +1,4 @@
 ---
-layout: base
 title: Proposing a data format
 section: root
 ---

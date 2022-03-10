@@ -1,5 +1,4 @@
 ---
-layout: base
 title: Your data format needs
 section: root
 ---

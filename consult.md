@@ -1,5 +1,4 @@
 ---
-layout: base
 title: Consulting with your community
 section: root
 ---
