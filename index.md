@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Welcome
-section: root
+layout: index
 ---
 
 {:.page_head}
