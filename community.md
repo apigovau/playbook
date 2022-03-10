@@ -34,7 +34,7 @@ If you want to exchange information digitally with others then it's time to cons
 
 Joining a community should be your first choice. While there is no restrictions on who can make their own community, or how many communities there can be, it's better for everyone to try and keep communities together.
 
-<!-- You can [check the community directory](/community_directory.html) to see if one exists already. -->
+You can [check the community directory](https://community.digital.gov.au/c/api) to see if one exists already.
 
 Each community has their own process for new members, but they'll describe that on their page.
 
