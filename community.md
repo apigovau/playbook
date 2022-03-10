@@ -5,7 +5,7 @@ section: root
 ---
 
 {:.collection}
-![Community](img/community.svg)
+![Community](assets/img/community.svg)
 
 {:.page_head}
 # What is a community

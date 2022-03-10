@@ -4,7 +4,7 @@ title: Consulting with your community
 section: root
 ---
 {:.collection}
-![Community](img/community.svg)
+![Community](assets/img/community.svg)
 
 
 {:.page_head}

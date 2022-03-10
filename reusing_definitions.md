@@ -4,17 +4,17 @@ title: Reusing the definitions of others
 section: root
 ---
 {:.collection}
-![Community](img/community.svg)
+![Community](assets/img/community.svg)
 
 
 {:.page_head}
 # Reusing the definitions of others
 
 {:.sub_head}
-Our [Definitions Catalogue](https://api.gov.au/definitions) makes is easy to discover what data is collected and used by government no matter who defines it, how it is defined, or where it is defined.
+<!-- Our [Definitions Catalogue](https://api.gov.au/definitions) makes is easy to discover what data is collected and used by government no matter who defines it, how it is defined, or where it is defined. -->
 
-{:.sub_head}
-This guide will help you find definitions that you can reuse in your own community.
+<!-- {:.sub_head}
+This guide will help you find definitions that you can reuse in your own community. -->
 
 {% include guide_nav.html %}
 
