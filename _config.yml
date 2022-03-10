@@ -3,6 +3,7 @@ description: Digital Exchange Australia playbook
 baseurl: "/playbook" # the subpath of your site, e.g. /blog
 url: "https://api.gov.au" # the base hostname & protocol for your site, e.g. http://example.com
 
+CNAME: lecklogic.com.au
 
 # Build settings
 keep_files: [css]
