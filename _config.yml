@@ -1,6 +1,6 @@
 title: api.gov.au
 description: Making it easier to discover and implement APIs offered by the Australian state, territory and federal government.
-CNAME: api.lecklogic.com.au 
+CNAME: api.gov.au 
 
 # ** Make sure you change these when deploying to your repo **
 #baseurl: '/national-api-design-standards' # the subpath of your site, e.g. /blog
